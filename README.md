@@ -78,9 +78,19 @@ Really good frontend developer, experienced in working with Figma for designing 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
+### Stats for personal github (tusharjain2802)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharjain2802&show_icons=true&locale=en&layout=compact" alt="tusharjain2802" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharjain2802&show_icons=true&locale=en" alt="tusharjain2802" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharjain2802&" alt="tusharjain2802" /></p>
+
+
+### Stats for personal github (tusharlumega)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharlumega&show_icons=true&locale=en&layout=compact" alt="tusharlumega" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharlumega&show_icons=true&locale=en" alt="tusharlumega" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharlumega&" alt="tusharlumega" /></p>
