@@ -2,13 +2,14 @@
 
 
 ## About Me ✍
-I'm Tushar Jain, and I'm pursuing Computer Engineering at TIET.
+I'm Tushar Jain, an alumnus of TIET with 1.5 years of experience in software development.
+Currently, I am working at Sinch as a Software Development Engineer.
 I'm passionate about learning Web Development & Machine Learning concepts.
-I'm a quick learner. I am always passionate about understanding the core concepts behind different popular Technological Fields.
+I'm a quick learner and always eager to understand the core concepts behind different popular Technological Fields.
 
 - 🔭 I’m currently focusing on MERN Stack Development
 - 🌱 I’m currently learning to manage my time and be productive.
-- 👯 I’m looking for internship opportunities.
+- 👯 I’m looking for exciting opportunities to grow my skills.
 - 😄 Pronouns: ...He/Him
 
 
@@ -40,11 +41,21 @@ I'm a quick learner. I am always passionate about understanding the core concept
 Some of my skills are under
 
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![SEO](https://img.shields.io/badge/-SEO-4CAF50?style=flat-square&logo=google)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+
+Really good frontend developer, experienced in working with Figma for designing layouts.
 
 <!--footer-->
 
